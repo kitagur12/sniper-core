@@ -1,10 +1,10 @@
-# AntiSubAccount
+# Sniper-Core
 PocketMine-MP Plugin.
 Api version: 5.0.0 support.
 
 With this one plugin, anyone can create a server where they can play Bedrock sniper.
 
-# Main functions
+# Plugin Functions
 - Headshots are possible
 - Easy to execute
 - Low server load
